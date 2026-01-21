@@ -10,7 +10,7 @@ package com.example.calculadoraweb;
  */
 public class CalculatorService {
     public int add(int a, int b) {
-        return a - b;
+        return a + b;
     }
     
     
