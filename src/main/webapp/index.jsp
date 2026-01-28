@@ -5,7 +5,7 @@
 <h1>Calculadora Web</h1>
 
 <form action="HelloServlet" method="post">
-    <p>funciona correctamente+</p>
+    <p>AAAA</p>
     
     <label>Número A:</label>
     <input type="text" name="a" />
